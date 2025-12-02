@@ -10,4 +10,8 @@ Stealth windows x64 HTTPS reverse shell
 
 [No-Consolation](https://github.com/fortra/No-Consolation)实现内存中内联执行cmd.exe
 
+但是从文件系统读cmd.exe容易被安全软件注意 要不然就远程拉取
+
+或者 拆出meterpreter的shell
+
 理论可行 工程量很大
